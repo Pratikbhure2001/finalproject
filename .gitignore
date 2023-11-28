@@ -7,7 +7,7 @@
 
 # testing
 /coverage
-
+# mongodb+srv://pratikbhure:BMX4nntlapn83Wdt@cluster0.fcqbllj.mongodb.net/
 # next.js
 /.next/
 /out/
